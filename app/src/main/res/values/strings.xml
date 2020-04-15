@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My First NavDrawer App</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">King Wanyama</string>
+    <string name="nav_header_subtitle">kingwanyama01@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_exiting">Exit</string>
+
+    <string name="menu_home">Home Icon</string>
+    <string name="menu_gallery">Gallery Icon</string>
+    <string name="menu_slideshow">Slideshow Icon</string>
+
+    <string name="home_second">Home Second</string>
+</resources>
